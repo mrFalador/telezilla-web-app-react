@@ -47,7 +47,6 @@ const LoginForm = () => {
                 value={password}
                 onChange={onChangePassword}
             />
-            <Button>Войти</Button>
         </div>
     );
 };
